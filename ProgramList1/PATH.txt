@@ -1,0 +1,12 @@
+-Check for your installation directory to find absolute path for the exe files (javac.exe, java.exe etc)
+-Copy the path(bin folder)
+
+In my case:
+OS:Windows 10 (x64) 
+C:\Program Files\Java\jdk-16.0.1\bin
+
+-Go to control panel -> User Account -> User Account
+-Select "Change my Enviromental Variables" 
+-Edit the Path and add new copied path value
+-Ok and Apply
+-Now the PATH is set and ready to use
